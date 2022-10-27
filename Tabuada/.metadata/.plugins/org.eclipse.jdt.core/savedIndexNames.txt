@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\eveli\OneDrive\PROGRAMAÇÃO\Repositórios\Java\coisas\Tabuada\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1605654906.index
+2063314829.index
